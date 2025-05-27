@@ -47,6 +47,7 @@
             "text": "Protect Yourself from Environmental Odors",
             "url": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/south-region-health-concerns/about-environmental-odors.html"
           },
+          "airpurifiers":  "San Diego County Air Pollution Control District (SDAPCD) is providing free air purifiers to residents living in affected communities. Check with the <a href=\"https://www.sdapcd.org/content/sdapcd/about/tj-river-valley/aire.html\" target=\"_blank\">AIRE Program</a> to see if you are eligible",
           "label2": "Recommendations to ",
           "link2": {
             "text": "Protect Yourself from Contaminated Water",
@@ -113,7 +114,7 @@
           "trend_same": "same as last week"
         },
         "p1": {
-          "body": "A closure is issued when a sewage or chemical flow impacts beach or bay waters. Additional warnings and advisories can be found here:",
+          "body": "A closure is issued when a sewage or chemical flow impacts beach or bay waters. Avoiding contact with beach water is recommended during Advisories and Warnings. More details visit",
           "link": {
             "text": "San Diego Beach & Bay Water Quality Program",
             "url": "https://www.sdbeachinfo.com/"

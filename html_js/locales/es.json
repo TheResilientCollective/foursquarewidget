@@ -47,6 +47,7 @@
             "text": "Protegerte de Olores Ambientales",
             "url": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/south-region-health-concerns/about-environmental-odors.html"
           },
+          "airpurifiers": "El Distrito de Control de la Contaminación del Aire del Condado de San Diego (SDAPCD) está proporcionando purificadores de aire gratuitos a los residentes que viven en comunidades afectadas. Consulta con el <a href=\"https://www.sdapcd.org/content/sdapcd/about/tj-river-valley/aire.html\" target=\"_blank\">Programa AIRE</a> para ver si eres elegible.",
           "label2": "Recomendaciones para ",
           "link2": {
             "text": "Protegerte de Agua Contaminada",
@@ -113,7 +114,7 @@
           "trend_same": "igual que la semana pasada"
         },
         "p1": {
-          "body": "Se emite un cierre cuando un flujo de aguas negras o químico impacta las aguas del playa o la bahía. Advertencias y avisos adicionales se pueden encontrar aquí:",
+          "body": "Se emite un cierre cuando un flujo de aguas negras o químico impacta las aguas del playa o la bahía. Se recomienda evitar contacto con el agua de la playa durante Advertencias y Avisos. Para más detalles visite",
           "link": {
             "text": "Programa de Calidad del Agua de Playas y Bahía de San Diego",
             "url": "https://www.sdbeachinfo.com/"
